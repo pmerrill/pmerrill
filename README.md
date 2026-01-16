@@ -2,9 +2,9 @@
 
 ### Senior Full-Stack Engineer | Product-Minded | HealthTech
 
-I am a Minnesota-based engineer with 14+ years of experience transforming legacy codebases into scalable, **Event-Driven Systems**. I specialize in **healthcare interoperability**, performance optimization, and building developer tooling that eliminates friction.
+I'm a Minnesota-based engineer passionate about solving hard problems in healthcare systems. With 14+ years of experience transforming legacy codebases into scalable, **Event-Driven Systems**, I specialize in **healthcare interoperability**, performance optimization, and building developer tooling that eliminates friction.
 
-Currently scaling pharmacy workflow systems at **RxAnte** (31M+ lives, 12k+ w/high-touch needs).
+Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems that serve 31M+ lives with high-touch care for 12k+ complex patients.
 
 ---
 
@@ -19,9 +19,17 @@ Currently scaling pharmacy workflow systems at **RxAnte** (31M+ lives, 12k+ w/hi
 ---
 
 ### 🚀 Impact & Metrics
-* **Scale:** Re-architected integration layers supporting **6x patient growth** and **12k+ lives**.
-* **Performance:** Optimized [Chomp Foods](https://chompthis.com/api) API latency from **2s to <100ms** via Redis caching strategies.
-* **Reliability:** Engineered synchronization systems maintaining **<0.1% error rates** for critical patient data.
+* **Scale:** Re-architected integration layers supporting **6x program growth** serving **31M+ lives**.
+* **Performance:** Optimized [Chomp Foods](https://chompthis.com/api) API latency from **2s to <100ms** via Redis caching.
+* **Reliability:** Engineered synchronization systems maintaining **<0.1% error rates** for critical patient data workflows.
+
+---
+
+### 🔨 Currently working on
+* **[Chomp Foods](https://chompthis.com/api)** - High-performance nutrition search engine (LEMP stack, Redis caching, 28M+ records)
+* **Plenum** - Real-time, proximity-based anonymous chat (exploring geolocation APIs and WebSocket architecture)
+* **Poker Trainer** - Interactive learning app for poker beginners (game logic, hand evaluation algorithms)
+* Event-driven healthcare integrations at RxAnte (Salesforce CDC, pub/sub patterns)
 
 ---
 
