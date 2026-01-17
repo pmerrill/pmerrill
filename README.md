@@ -71,6 +71,8 @@ Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems for
 * [Migrations: The Sole Scalable Fix to Tech Debt](https://lethain.com/migrations/) - Strategic approach to legacy systems
 * [Building High-Quality Software](https://kevinsmith.io/separation-of-concerns-is-fundamental-to-building-high-quality-software/) - Practical quality engineering
 
+_Check out the full list of [software engineering resources](https://github.com/pmerrill/Software-Engineering-Learning-Resources) that have shaped my approach to building systems._
+
 ---
 
 ### 📫 Connect
