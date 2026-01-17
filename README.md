@@ -46,6 +46,7 @@ Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems for
 
 **Internal Tooling:**
 * **[Dev Environment CLI](https://github.com/pmerrill/Dev-Environment-CLI)** - Modular CLI framework for standardizing team development workflows (Node.js, oclif, Docker orchestration). Inspired by internal tooling built at RxAnte to eliminate "works on my machine" issues.
+* **[Docker Mongo Schema Tester](https://github.com/pmerrill/Docker-Mongo-Schema-Tester)** - A lightweight framework for validating complex MongoDB JSON schemas using ephemeral Docker containers.
 
 **Experiments & Learning:**
 * **Missing Letters** - Word completion game with increasing word length and strategic letter selection between rounds (React, game state management)
