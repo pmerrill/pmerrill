@@ -21,7 +21,7 @@ Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems tha
 
 ### 🚀 Impact & Metrics
 * **Scale:** Re-architected integration layers supporting **6x program growth** serving **31M+ lives**.
-* **Performance:** Optimized [Chomp Foods](https://chompthis.com/api) API latency from **2s to <100ms** via Redis caching.
+* **Performance:** Optimized [Chomp Foods API](https://chompthis.com/api) latency from **2s to <100ms** via Redis caching.
 * **Reliability:** Engineered synchronization systems maintaining **<0.1% error rates** for critical patient data workflows.
 
 ---
