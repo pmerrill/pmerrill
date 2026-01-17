@@ -1,5 +1,5 @@
 # Hi, I'm Peter Merrill. 👋
-### Senior Full-Stack Engineer | Product-Minded | HealthTech
+### Senior Full-Stack Engineer | Product-Minded | Healthcare Systems
 
 I'm a Minnesota-based engineer passionate about solving hard problems in healthcare systems. With 14+ years of experience transforming legacy codebases into scalable, **Event-Driven Systems**, I specialize in **healthcare interoperability**, performance optimization, and building developer tooling that eliminates friction.
 
