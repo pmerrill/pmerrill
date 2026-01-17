@@ -25,7 +25,7 @@ Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems for
 
 * **Scale (RxAnte):** Re-architected integration layers supporting **6x program growth** for **12k+ patients with complex medical histories**
 * **Reliability (RxAnte):** Engineered synchronization systems maintaining **<0.1% error rates** for critical patient data workflows
-* **Clinical Impact (RxAnte):** Built decision support platform supporting **$108/mo cost reduction** per member and **15% reduction** in inpatient stays
+* **Clinical Impact (RxAnte):** Built clinical decision support platform resulting in a **$108/mo cost reduction** per member and **15% reduction** in inpatient stays
 * **Business (Chomp):** Generated recurring B2B revenue through SaaS subscriptions and data licensing partnerships
 * **Performance (Chomp):** Reduced API latency from **2s to <100ms** across **28M+ records** via Redis caching and database optimization
 
