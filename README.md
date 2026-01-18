@@ -1,10 +1,11 @@
 # Hi, I'm Peter Merrill 👋
 ### Senior Full-Stack Engineer | Product-Minded | Healthcare Systems
 
-I'm a Minnesota-based engineer passionate about solving hard problems in healthcare systems. With 14+ years of experience transforming legacy codebases into scalable, **Event-Driven Systems**, I specialize in **healthcare interoperability**, performance optimization, and building developer tooling that eliminates friction.
+I'm a Minnesota-based engineer building reliable software for healthcare systems. 14+ years of experience across healthcare, sports, and consumer tech.
 
-Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems for 12k+ patients with complex medical histories requiring high-touch care.
+Currently at [RxAnte](https://rxante.com), where I focus on pharmacy workflow systems for patients with complex medical needs. Over the past 4.5 years, I've re-architected integrations to support 6x patient growth and built clinical decision tools that measurably improved patient outcomes.
 
+I focus on good API design, thoughtful architecture, and replacing manual processes with reliable, well-tested systems.
 
 ---
 
@@ -25,9 +26,10 @@ Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems for
 
 * **Scale (RxAnte):** Re-architected integration layers supporting **6x program growth** for **12k+ patients with complex medical histories**
 * **Reliability (RxAnte):** Engineered synchronization systems maintaining **<0.1% error rates** for critical patient data workflows
-* **Clinical Impact (RxAnte):** Built clinical decision support platform resulting in a **$108/mo cost reduction** per member and **15% reduction** in inpatient stays
-* **Business (Chomp):** Generated recurring B2B revenue through SaaS subscriptions and data licensing partnerships
-* **Performance (Chomp):** Reduced API latency from **2s to <100ms** across **28M+ records** via Redis caching and database optimization
+* **Clinical Impact (RxAnte):** Built clinical decision support platform used by pharmacy care teams to achieve **$108/mo reduction** in medical spending per enrollee and **15% fewer inpatient stays** (peer-reviewed NEJM Catalyst study)
+* **Business (Chomp):** Bootstrapped a profitable SaaS nutrition API serving health & fitness apps with **400+ registered developers**
+* **Performance (Chomp):** Reduced API latency from **2s to <100ms** searching across **900K+ foods** (28M+ database records) via Redis caching and database optimization
+
 
 ---
 
@@ -42,7 +44,7 @@ Currently at [RxAnte](https://rxante.com), scaling pharmacy workflow systems for
 ### 🔨 Currently working on
 
 **Production:**
-* **[Chomp Foods API](https://chompthis.com/api)** - SaaS food data API serving **900K+ foods** across **28M+ records** to health & fitness apps. Engineered <100ms response times using LEMP stack, Redis caching, and optimized MySQL queries. [Architecture deep-dive →](https://github.com/pmerrill/Chomp-Foods-API-Architecture)
+* **[Chomp Foods API](https://chompthis.com/api)** - SaaS nutrition database API serving **900K+ foods** (28M+ records) to health & fitness apps. Engineered <100ms response times using LEMP stack, Redis caching, and optimized MySQL queries. [Architecture deep-dive →](https://github.com/pmerrill/Chomp-Foods-API-Architecture)
 
 **Internal Tooling:**
 * **[Dev Environment CLI](https://github.com/pmerrill/Dev-Environment-CLI)** - Modular CLI framework for standardizing team development workflows (Node.js, oclif, Docker orchestration). Inspired by internal tooling built at RxAnte to eliminate "works on my machine" issues.
