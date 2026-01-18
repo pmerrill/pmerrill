@@ -35,7 +35,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 
 ### 🏥 Healthcare Engineering Expertise
 
-* **HIPAA Compliance:** Architected secure payment systems and automated PDF audit trail generation for clinical workflows
+* **HIPAA Compliance:** Designed secure audit trail systems for clinical workflows using automated PDF generation
 * **Interoperability:** Built event-driven integrations connecting Salesforce Health Cloud, pharmacy management systems, and long-term care platforms
 * **Clinical Workflows:** Partnered with Data Science and Product teams to replace manual Excel-based clinical reviews with scalable web applications
 
@@ -48,7 +48,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 
 **Internal Tooling:**
 * **[Dev Environment CLI](https://github.com/pmerrill/Dev-Environment-CLI)** - Modular CLI framework for standardizing team development workflows (Node.js, oclif, Docker orchestration). Inspired by internal tooling built at RxAnte to eliminate "works on my machine" issues.
-* **[Docker Mongo Schema Tester](https://github.com/pmerrill/Docker-Mongo-Schema-Tester)** - A lightweight framework for validating complex MongoDB JSON schemas using ephemeral Docker containers.
+* **[Docker Mongo Schema Tester](https://github.com/pmerrill/Docker-Mongo-Schema-Tester)** - A lightweight framework for validating complex MongoDB JSON schemas using ephemeral Docker containers. Learning project inspired by integration testing work at RxAnte.
 
 **Experiments & Learning:**
 * **Missing Letters** - Word completion game with increasing difficulty and strategic letter selection (React, game state management)
