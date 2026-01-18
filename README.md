@@ -27,7 +27,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 * **Scale (RxAnte):** Re-architected integration layers supporting **6x program growth** for **12k+ patients with complex medical histories**
 * **Reliability (RxAnte):** Engineered synchronization systems maintaining **<0.1% error rates** for critical patient data workflows
 * **Clinical Impact (RxAnte):** Built clinical decision support platform used by pharmacy care teams to achieve **$108/mo reduction** in medical spending per enrollee and **15% fewer inpatient stays** (peer-reviewed NEJM Catalyst study)
-* **Business (Chomp):** Bootstrapped a profitable SaaS nutrition API serving health & fitness apps with **400+ registered developers**
+* **Business (Chomp):** Bootstrapped a profitable SaaS nutrition API serving health & fitness apps globally
 * **Performance (Chomp):** Reduced API latency from **2s to <100ms** searching across **900K+ foods** (28M+ database records) via Redis caching and database optimization
 
 
@@ -51,7 +51,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 * **[Docker Mongo Schema Tester](https://github.com/pmerrill/Docker-Mongo-Schema-Tester)** - A lightweight framework for validating complex MongoDB JSON schemas using ephemeral Docker containers.
 
 **Experiments & Learning:**
-* **Missing Letters** - Word completion game with increasing word length and strategic letter selection between rounds (React, game state management)
+* **Missing Letters** - Word completion game with increasing difficulty and strategic letter selection (React, game state management)
 * **Plenum** - Proximity-based anonymous chat leveraging geolocation APIs and real-time Firebase architecture
 * **Poker Trainer** - Learning app for beginners with hand-ranking games, timed challenges, puzzle scenarios, and 50+ lessons with XP progression (React)
 
