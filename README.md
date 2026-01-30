@@ -65,7 +65,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 * [High Cohesion, Loose Coupling](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/) - Core principles for modular design
 
 **Testing:**
-* [Arrange-Act-Assert Pattern for Good Tests](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/) - How to structure and approach writing tests
+* [Arrange-Act-Assert Pattern for Good Tests](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/) - Mindset for writing readable, maintainable, and useful tests
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) - Balancing unit, integration, and E2E tests
 * [Mocking at Architectural Boundaries](https://blog.cleancoder.com/uncle-bob/2014/05/10/WhenToMock.html) - When and where to use mocks effectively
 * [Avoid In-Memory Databases for Tests](https://www.jimmybogard.com/avoid-in-memory-databases-for-tests/) - Why test environments should match production
