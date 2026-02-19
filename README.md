@@ -44,7 +44,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 ### 🔨 Currently working on
 
 **Production:**
-* **[Rough Work](https://roughwork.dev)** - A collection of essays on software engineering craft, team dynamics, and the business of building software. Topics include architecture patterns, testing, reliability, career growth, and how senior engineers actually work.
+* **[Roughwork](https://roughwork.dev)** - A collection of essays on software engineering craft, team dynamics, and the business of building software. Topics include architecture patterns, testing, reliability, career growth, and how senior engineers actually work.
 * **[Chomp Foods API](https://chompthis.com/api)** - SaaS nutrition database API serving **900K+ foods** (28M+ records) to health & fitness apps. Engineered <100ms response times using LEMP stack, Redis caching, and optimized MySQL queries. [Architecture deep-dive →](https://github.com/pmerrill/Chomp-Foods-API-Architecture)
 
 **Internal Tooling:**
