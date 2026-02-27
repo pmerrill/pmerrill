@@ -82,4 +82,4 @@ _Check out the full list of [software engineering resources](https://github.com/
 ### 📫 Connect
 
 * [linkedin.com/in/petermerrill](https://linkedin.com/in/petermerrill)
-* peter.merrill@icloud.com
+* peter@petemerrill.com
