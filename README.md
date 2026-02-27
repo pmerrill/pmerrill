@@ -1,4 +1,3 @@
-# Hi, I'm Peter Merrill 👋
 ### Senior Full-Stack Engineer | Product-Minded | Healthcare Systems
 
 I'm a Minnesota-based engineer building reliable software for healthcare systems. 14+ years of experience across healthcare, sports, and consumer tech.
