@@ -51,12 +51,6 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 * **[Dev Environment CLI](https://github.com/pmerrill/Dev-Environment-CLI)** - Modular CLI framework for standardizing team development workflows (Node.js, oclif, Docker orchestration). Inspired by internal tooling built at RxAnte to eliminate "works on my machine" issues.
 * **[Docker Mongo Schema Tester](https://github.com/pmerrill/Docker-Mongo-Schema-Tester)** - A lightweight framework for validating complex MongoDB JSON schemas using ephemeral Docker containers. Learning project inspired by integration testing work at RxAnte.
 
-**Experiments & Learning:**
-* **[Daily Class](https://dailyclass.app)** - Classroom management platform for teachers with a gradebook, interactive whiteboard, and student journal — all scoped to the school year (React, Supabase, TypeScript)
-* **Plenum** - Proximity-based anonymous chat leveraging geolocation APIs and real-time Firebase architecture
-* **Missing Letters** - Word completion game with increasing difficulty and strategic letter selection (React, game state management)
-* **Poker Trainer** - Learning app for beginners with hand-ranking games, timed challenges, puzzle scenarios, and 50+ lessons with XP progression (React)
-
 ---
 
 ### 📚 Resources That Shaped My Thinking
