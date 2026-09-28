@@ -46,6 +46,7 @@ I focus on good API design, thoughtful architecture, and replacing manual proces
 * **[College Hockey Dynasty](https://collegehockeydynasty.com)** - A from-scratch iOS GM sim for college hockey, built in Swift - a robust game engine with fatigue and line chemistry, NIL-era recruiting and dual-budget finances, and tournament seeding on the NPI ranking formula.
 * **[Roughwork](https://roughwork.dev)** - A collection of essays on software engineering craft, team dynamics, and the business of building software. Topics include architecture patterns, testing, reliability, career growth, and how senior engineers actually work.
 * **[Chomp Foods API](https://chompthis.com/api)** - SaaS nutrition database API serving **900K+ foods** (28M+ records) to health & fitness apps. Engineered <100ms response times using LEMP stack, Redis caching, and optimized MySQL queries. [Architecture deep-dive →](https://github.com/pmerrill/Chomp-Foods-API-Architecture)
+* **[Football Trade Trees](https://footballtradetrees.com)** - An archive of every NFL trade throughout history. Visualing the original deal through each re-trade to the player it became.
 
 **Internal Tooling:**
 * **[Dev Environment CLI](https://github.com/pmerrill/Dev-Environment-CLI)** - Modular CLI framework for standardizing team development workflows (Node.js, oclif, Docker orchestration). Inspired by internal tooling built at RxAnte to eliminate "works on my machine" issues.
