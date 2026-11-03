@@ -27,8 +27,6 @@ Roughwork · Essays
 
 What Anthropic's evaluation report shows about checking agent behavior against the real world.
 
-Roughwork
-
 ### [Roughwork — principles, heuristics, patterns, essays](https://roughwork.dev)
 
 Essays on senior software engineering in practice — the judgment calls, trade-offs, and decisions around the code.
