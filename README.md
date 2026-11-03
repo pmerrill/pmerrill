@@ -29,7 +29,7 @@ What Anthropic's evaluation report shows about checking agent behavior against t
 
 Roughwork
 
-### [Roughwork](https://roughwork.dev)
+### [Roughwork — principles, heuristics, patterns, essays](https://roughwork.dev)
 
 Essays on senior software engineering in practice — the judgment calls, trade-offs, and decisions around the code.
 
@@ -62,4 +62,4 @@ Modular CLI framework for standardizing team development workflows (Node.js, ocl
 
 ## Technologies & Tools
 
-<p class="tools">TypeScript · Next.js · PHP · React · Node.js · Docker · MySQL · MongoDB</p>
+<p class="tools">TypeScript · Next.js · PHP · React · Node.js · Docker · MySQL · MongoDB · Redis</p>
