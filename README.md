@@ -31,7 +31,7 @@ Roughwork
 
 ### [Roughwork](https://roughwork.dev)
 
-Essays on software engineering craft, team dynamics, and the business of building software — architecture, testing, reliability, and career growth.
+Essays on senior software engineering in practice — the judgment calls, trade-offs, and decisions around the code.
 
 [More writing at roughwork.dev](https://roughwork.dev/blog)
 
