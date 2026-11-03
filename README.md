@@ -8,7 +8,7 @@ I'm a Minnesota-based engineer building reliable software for healthcare systems
 
 2021 brought the move to [RxAnte](https://rxante.com) and pharmacy workflow systems for patients with complex medical needs. In that time, I've re-architected integrations to support 6x program growth and built clinical decision tools that improved patient outcomes.
 
-Across all of it, the focus is API design, architecture, and replacing manual processes with reliable, well-tested systems.
+Across all of it, my focus has been API design, architecture, and replacing manual processes with reliable, well-tested systems.
 
 ## Writing
 
