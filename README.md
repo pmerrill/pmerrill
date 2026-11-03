@@ -72,7 +72,3 @@ Modular CLI framework for standardizing team development workflows (Node.js, ocl
 
 <p class="tools">TypeScript · Next.js · PHP · React · Node.js · Docker · MySQL · MongoDB</p>
 
-## Connect
-
-* [linkedin.com/in/petermerrill](https://linkedin.com/in/petermerrill)
-* peter@petemerrill.com
