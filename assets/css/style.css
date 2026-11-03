@@ -142,6 +142,27 @@ a:hover {
   font-size: 1.05rem;
   margin-bottom: 0;
 }
+
+/* Kicker-less entries (Projects): a description paragraph directly
+   before the next entry title would otherwise pick up the kicker
+   styling above — hairline between title and description, next title
+   flush against the description. Reset such paragraphs to plain
+   description styling, and let the title itself carry the entry
+   separator: the same hairline a kicker carries in Writing, with
+   clear space above it. */
+.content h3 + p:has(+ h3) {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.content h3 + p + h3 {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--hairline);
+}
 /* A paragraph after a description (e.g. the "More writing" link) */
 .content h3 + p + p { margin-top: 1rem; }
 

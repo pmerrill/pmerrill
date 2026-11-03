@@ -49,8 +49,6 @@ SaaS nutrition database API serving 900K+ foods (28M+ records) to health & fitne
 
 A from-scratch iOS GM sim for college hockey, built in Swift — a game engine with fatigue and line chemistry, NIL-era recruiting and dual-budget finances, and tournament seeding on the NPI ranking formula.
 
-Open Source
-
 ### [Dev Environment CLI](https://github.com/pmerrill/Dev-Environment-CLI)
 
 Modular CLI framework for standardizing team development workflows (Node.js, oclif, Docker orchestration).
