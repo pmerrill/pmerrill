@@ -4,9 +4,9 @@
 
 ## About
 
-I'm a Minnesota-based engineer building reliable software for healthcare systems. 14+ years of experience across healthcare, sports, and consumer tech.
+I'm a Minnesota-based engineer building reliable software for healthcare systems. {{ site.time | date: "%Y" | minus: site.career_start_year }}+ years of experience across healthcare, sports, and consumer tech.
 
-Currently at [RxAnte](https://rxante.com), where I focus on pharmacy workflow systems for patients with complex medical needs. Over the past 4.5 years, I've re-architected integrations to support 6x patient growth and built clinical decision tools that measurably improved patient outcomes.
+Currently at [RxAnte](https://rxante.com), where I focus on pharmacy workflow systems for patients with complex medical needs. Over the past {{ site.time | date: "%Y" | minus: site.rxante_start_year }} years, I've re-architected integrations to support 6x patient growth and built clinical decision tools that measurably improved patient outcomes.
 
 I focus on good API design, thoughtful architecture, and replacing manual processes with reliable, well-tested systems.
 
