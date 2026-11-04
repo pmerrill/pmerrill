@@ -27,6 +27,12 @@ Roughwork · Essays
 
 What Anthropic's evaluation report shows about checking agent behavior against the real world.
 
+Roughwork · Essays
+
+### [A Century of Football Trades, Researched by Agents](https://roughwork.dev/blog/century-of-football-trades)
+
+A public archive of football trades back to 1920, researched mostly by AI agents, and the system that keeps their work checkable.
+
 ### [Roughwork — principles, heuristics, patterns, essays](https://roughwork.dev)
 
 Essays on senior software engineering in practice — the judgment calls, trade-offs, and decisions around the code.
