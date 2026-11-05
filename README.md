@@ -62,6 +62,7 @@ Modular CLI framework for standardizing team development workflows (Node.js, ocl
 * **Scale (RxAnte):** Re-architected integration layers supporting 6x program growth for 12k+ patients with complex medical histories.
 * **Reliability (RxAnte):** Built synchronization systems maintaining &lt;0.1% error rates for critical patient data workflows.
 * **Clinical Impact (RxAnte):** Built a clinical decision support platform used by pharmacy care teams to achieve a $108/mo reduction in medical spending per enrollee and 15% fewer inpatient stays (peer-reviewed NEJM Catalyst study).
+* AI Innovation Award finalist at RxAnte, for a tool that surfaces red flags in complex patient histories for clinical pharmacists.
 * **Performance (Chomp):** Reduced API latency from 2s to &lt;100ms searching across 900K+ foods (28M+ database records) via Redis caching and database optimization.
 
 ## Technologies & Tools
